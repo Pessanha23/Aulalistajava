@@ -12,6 +12,8 @@ public class Programa {
 
         List<Employee> list = new ArrayList<>();
 
+        System.out.println("Test git commit");
+
         System.out.print("How many employees will be registered ? ");
         int n = sc.nextInt();
 
